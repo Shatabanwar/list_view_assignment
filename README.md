@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+API used : http://www.json-generator.com/api/json/get/cgsMDTVpWq?indent=2
+
+Screenshots
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
