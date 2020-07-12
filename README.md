@@ -6,7 +6,7 @@ API used : http://www.json-generator.com/api/json/get/cgsMDTVpWq?indent=2
 
 Screenshots
 
-![alt text](https://github.com/[Shatabanwar]/[Shatabanwar]/blob/[master]/WhatsApp Image 2020-07-12 at 3.15.48 PM.jpeg?raw=true)
+![alt text](https://github.com/Shatabanwar/list_view_assignment/blob/master/WhatsApp%20Image%202020-07-12%20at%203.15.48%20PM.jpeg)
 
 ## Getting Started
 
